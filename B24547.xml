@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An order for government of housholds, vvarranted by Gods word, and commanded by the eternall God, and therefore ought not to be neglected nor impugned, of any that in truth and sincerity seeke to serve the Lord, but with all care and diligence ought to be put in execution, of all those that seeke the safety of the soules committed to them, and the discharge of their owne conscience.</title>
+            <author>M. I.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24547</idno><idno type="EEBO-CITATION">99885390</idno>
+  <idno type="VID">201330</idno>
+  <idno type="EEBO-PROQUEST">2264214804</idno>
+  
+            <idno type="STC">Wing I9</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.22[54]</idno>
+            <idno type="STC">ESTC R222977</idno>
+            <idno type="PROQUEST">ocm99885390</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885390e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24547)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201330)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B2:1[65])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An order for government of housholds, vvarranted by Gods word, and commanded by the eternall God, and therefore ought not to be neglected nor impugned, of any that in truth and sincerity seeke to serve the Lord, but with all care and diligence ought to be put in execution, of all those that seeke the safety of the soules committed to them, and the discharge of their owne conscience.</title>
+                  <author>M. I.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Mary Brusey, and are to be sold by Iohn Wright Iunior, in the little Old Bayly,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: M.I.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Text within ornamental border.</note>
+                  <note>Imperfect: torn with slight loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Households --  Religious aspects --  Christianity --  Early works to 1800.</term>
+               <term type="topical_term">Sunday --  Early works to 1800.</term>
+               <term type="topical_term">Family --  Religious life --  Early works to 1800.</term>
+               <term type="topical_term">Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201330:1"/>
+            <head>An Order for Government of Housholds, warranted by Gods Word, and commanded by the Eternall GOD, and therefore ought not to be neglected nor impugned, of any that in truth and sincerity seeke to serve the Lord, but with all care and diligence ought to be put in execution, of all those that seeke the safety of the soules committed to them, and the discharge of their owne Conscience.</head>
+            <p>THe Word of the Lord teacheth us that it is not onely required of Masters, Parents, and Housholders, that they themselves have a care to live in the feare of God: but also they ought to see their whole Families to doe the same. And that this charge is laid on them, note these places of Scripture.</p>
+            <list>
+               <item>
+                  <q>
+                     <bibl>Exod. 13.8, 3.</bibl>
+                     <p>
+                        <hi>Thou shalt shew thy sonne in that day.</hi>
+                     </p>
+                  </q>
+               </item>
+               <item>
+                  <q>
+                     <bibl>
+                        <hi>Deut. 4.9.</hi>
+                     </bibl>
+                     <p>Thou shalt rehearse my Will and Commandements to thy Children.</p>
+                  </q>
+               </item>
+               <item>
+                  <q>
+                     <bibl>
+                        <hi>Deut. 6.7.</hi>
+                     </bibl>
+                     <p>Thou shalt rehearse my Will and Commandements to thy Children.</p>
+                  </q>
+               </item>
+               <item>
+                  <q>
+                     <bibl>
+                        <hi>Deut. 11.9.</hi>
+                     </bibl>
+                     <p>Thou shalt rehearse my Will and Commandements to thy Children.</p>
+                  </q>
+               </item>
+            </list>
+            <p>For as we are Masters and Fathers on earth, and looke to be served and obeyed, so I acknowledge for mine owne part, that I have a Father and Master in heaven: whose will I must obey in governing the people committed to my charge, according to his will: this did faithfull <hi>Abraham</hi> called <hi>Father of the faithfull,</hi> (<hi>Genes.</hi> 18.19. whose example by Gods assistance) I intend in some measure to follow, to shew my dutifull obedience, that the Lord may shew his mercy upon me and mine, as he promised and performed to <hi>Abraham,</hi> and therefore have ta<g ref="char:EOLhyphen"/>ken this order for the government of my house as followeth.</p>
+            <list>
+               <head>For the Sabboth.</head>
+               <item>
+                  <p>1 FIrst, because our God hath sanctified one day to himselfe, that is, the Sabboth; I ordaine and command that all my people shall repaire to the Church, accompanying me both forenoone and afternoone: there to stay, and abide during the exercise of the Word of God read and preached, prayers, and partaking of the Sacraments: and shall behave themselves there reverently, as those that come to appeare before Gods Majestie. None shall travell on the Sabboth day without urgent necessity, nor otherwise absent themselves from the Church without just cause made knowne before to me.</p>
+                  <p>None shall use on that day any gaming, as Cards, Dice, Tables, Bowles, Dancing, running to Revels, haunting of Alehouses, &amp;c. but shall spend the time after the publike exercise of the Word in such laudable and godly manner, as God teacheth in his Word: as reading of the Scriptures, singing of Psalmes: <hi>Iames</hi> 5.13. Talking of his Commandements, <hi>Deut.</hi> 6.7. and meditating of Gods creatures to his glo<g ref="char:EOLhyphen"/>ry: <hi>Isay</hi> 58.13.</p>
+                  <p>Againe, seeing the Sabboth is the Market day, or day of preparing food for our soules: every one shall, being demaunded give an ac<g ref="char:EOLhyphen"/>count of something that he hath learned, as well in the Church to the Minister, as also in my private house, when I my selfe, or some other by mine appointment shall examine him, that I may know how he hath spent the Sabboth, and profited in knowledge.</p>
+               </item>
+               <item>
+                  <p>2 Secondly, I ordain and take order that every morning there be a generall meeting of my servants before they go about their ordinary bu<g ref="char:EOLhyphen"/>sinesse, all excuses set apart, joyning themselves together, and commending themselves to God by faithfull and hearty prayer, craving his aide and blessing, without which, our watching and labour is all in vaine, as <hi>David</hi> noteth, <hi>Psal.</hi> 127.1, 2. Also our rest and sleepe being a gift of God, for the obtaining thereof I appoint in like manner, that there shall be every evening the like assembling of all my people, worldly ex<g ref="char:EOLhyphen"/>cuses put apart, to bestow together some convenient time in prayer, singing of Psalmes, reading of the Scripture, or some other godly matter.</p>
+               </item>
+               <item>
+                  <p>3 Thirdly, seeing the Creatures of God are sanctified unto us by the Word of God and prayer, and that we ought not to receive them without giving thankes to God for then, as <hi>Paul</hi> teacheth, 1 <hi>Tim.</hi> 4.5. Therefore I command that some one in the behalfe for the rest, both before and after meat whensoever they receive it, doe with all reverence praise God for the same, the residue yeelding consent by their re<g ref="char:EOLhyphen"/>verent silence.</p>
+               </item>
+               <item>
+                  <p>4 Fourthly, concerning the common behaviour of my people every where, I straitly forbid to sweare in vaine by the reverend name of God, or otherwise to use it vainly and unreverently. I utterly forbid all jesting and scoffing at Gods sacred Word, his true Religion, the Prea<g ref="char:EOLhyphen"/>chers and Professors of the same, all cursing, lying, slandering, and filthy and uncleane talking: I utterly forbid all maintainance of Popery and superstition, and what else soever may offend the Majestie of God.</p>
+               </item>
+            </list>
+            <p>If any offend against these, or any of these orders above mentioned, through weaknesse, and not of malice, he shall be once gently admoni<g ref="char:EOLhyphen"/>shed, <hi>Matth.</hi> 18.17. if he offend the second time, to be more sharply reproved, 1 <hi>Tim.</hi> 5.1, 20. but if he offend the third time, he shall confesse his fault before the whole Houshold assembled together, shewing himselfe sorrowfull for his fault, craving pardon of God, and reconcile himselfe to the Houshold whom he hath offended.</p>
+            <p>But if there be any of my Family that doe obstinately refuse to beare this the Lords yoke, and to be subject to his Ordinance, he shall not continue in my house, but I will learne of <hi>David, Psal.</hi> 101.6, 7, 8. a man chosen after Gods owne heart, to drive such wickednesse out of my house and sight, and seek for such as feare God, and will make such my servants, least entertaining and nourishing the wicked in my house, my negligence be punished, as was <hi>Elis,</hi> who being a Housholder, and a father, was said to have honoured his children more then God, be<g ref="char:EOLhyphen"/>cause he entertained them without punishment, he was deprived of both his sons in one day, and himselfe brake his necke, &amp;c. 1 <hi>Sam.</hi> 2.31. 1 <hi>Sam.</hi> 3.13. 1 <hi>Sam.</hi> 4.17, 18. And <hi>Solomon</hi> saith that the curse of God is in the house where the wicked are, but he powreth blessings upon the habitations of the righteous, <hi>Prov.</hi> 3, 33.</p>
+            <p>Therefore I farther adde, that such Ghests as repaire to my house, refusing to be subject to the Ordinances of the Almighty, and will not <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e with me and my people to serve the Lord, I refuse to be companion with such, or to receive him to be my Ghest, for such procure <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s wrath, as afore is said. But I will say with <hi>David, Psal.</hi> 119.63. those shall be my companions that feare God and keepe his Com<g ref="char:EOLhyphen"/>mandements, and those shall be my Ghests that be godly, just, and feare God, and as for the wicked and rebellious against the Ordinance of God, seeing they are darknesse, with whom light hath no communion, and seeing they are as pitch, very likely to defile a man, I will say to such, as our Saviour said of the like: <hi>Away from me yee workers of iniquity,</hi> and with that godly housekeeper <hi>David, Away from mee yee wicked, for I will keepe the Commandements of my God, Psal,</hi> 119.115.</p>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Joshua 24.15.</hi>
+                  </bibl>
+                  <p>I and my house will serve the Lord.</p>
+               </q>
+               <q>
+                  <bibl>
+                     <hi>Hester 4.16.</hi>
+                  </bibl>
+                  <p>I and my maides will serve the Lord.</p>
+               </q>
+               <q>
+                  <bibl>
+                     <hi>Acts 10.1.</hi>
+                  </bibl>
+                  <p>Cornelius with all his houshold feared God.</p>
+               </q>
+               <q>
+                  <bibl>
+                     <hi>Proverb. 13.13.</hi>
+                  </bibl>
+                  <p>He that despiseth the Word, be shall be destroyed.</p>
+                  <p>But he that feareth the Commandement, he shall be rewarded.</p>
+               </q>
+               <q>
+                  <bibl>
+                     <hi>Rev. 22.12.</hi>
+                  </bibl>
+                  <p>Behold, I come shortly, and my reward is with me, to give to every man according as his work shall be.</p>
+               </q>
+            </epigraph>
+            <closer>
+               <signed>
+                  <hi>Henry Roll.</hi> M. I.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed for <hi>Mary Brusey,</hi> and are to be sold by <hi>Iohn Wright Iunior,</hi> in the little Olde Bayly. 1641.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
